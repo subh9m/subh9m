@@ -1,5 +1,5 @@
 # 💫 About Me:
-Strong in **DSA and problem solving**, with a focus on building real-world systems.<br><br>Backend-focused developer using **Java, Spring Boot, React, and MongoDB**.<br>Built a full-stack **Exam Platform** with OTP authentication, role-based access, and quiz engine.<br><br>Currently preparing for **SDE roles**.<br>
+Strong in **DSA and problem solving**, with a focus on building real-world systems.<br><br>Backend-focused developer using **Java, Spring Boot, React, and MongoDB**<br>Currently preparing for **SDE roles**.<br>
 
 
 ## 🌐 Socials:
